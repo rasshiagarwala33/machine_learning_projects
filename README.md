@@ -1,5 +1,5 @@
 # machine_learning_projects
 
-# Project 1:-- Heart Disease Detection
+Project 1:-- Heart Disease Detection
 
-# Project 2:-- Prediction Of Loan Status Detection
+Project 2:-- Prediction Of Loan Status Detection
